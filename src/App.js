@@ -68,7 +68,7 @@ const App =() => {
   const [win, setWin] = useState('');
   const [bet, setBet] = useState(0);
   const [choose, setChoose] = useState('')
-  
+
 
   const handleStartGame = (bet, chooseColor, chooseNumber) => {
     setBet(bet)
