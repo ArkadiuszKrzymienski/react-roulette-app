@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-roulette-app/static/css/main.dd41aa02.chunk.css",
+    "main.css": "/react-roulette-app/static/css/main.6759c876.chunk.css",
     "main.js": "/react-roulette-app/static/js/main.58afe3bb.chunk.js",
     "main.js.map": "/react-roulette-app/static/js/main.58afe3bb.chunk.js.map",
     "runtime-main.js": "/react-roulette-app/static/js/runtime-main.be3bb3d1.js",
@@ -8,13 +8,13 @@
     "static/js/2.69e7529d.chunk.js": "/react-roulette-app/static/js/2.69e7529d.chunk.js",
     "static/js/2.69e7529d.chunk.js.map": "/react-roulette-app/static/js/2.69e7529d.chunk.js.map",
     "index.html": "/react-roulette-app/index.html",
-    "static/css/main.dd41aa02.chunk.css.map": "/react-roulette-app/static/css/main.dd41aa02.chunk.css.map",
+    "static/css/main.6759c876.chunk.css.map": "/react-roulette-app/static/css/main.6759c876.chunk.css.map",
     "static/js/2.69e7529d.chunk.js.LICENSE.txt": "/react-roulette-app/static/js/2.69e7529d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.be3bb3d1.js",
     "static/js/2.69e7529d.chunk.js",
-    "static/css/main.dd41aa02.chunk.css",
+    "static/css/main.6759c876.chunk.css",
     "static/js/main.58afe3bb.chunk.js"
   ]
 }
